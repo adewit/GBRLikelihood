@@ -1,0 +1,27 @@
+<lcgdict>
+	<class name="HybridGBREvent"/>
+	<class name="GBRArrayUtils"/>
+	<class name="HybridGBRForest"/>
+	<class name="HybridGBRForestD"/>
+	<class name="HybridGBRTree"/>
+	<class name="HybridGBRTreeD"/>
+	<class name="HybridGBRForestFlex"/>
+	<class name="RooCBExp"/>
+	<class name="RooCBFast"/>
+	<class name="RooDoubleCBFast"/>
+	<class name="RooGaussianFast"/>
+	<class name="RooGausDoubleExp"/>
+	<class name="RooRevCBExp"/>
+	<class name="RooRevCBFast"/>
+	<class name="RooTreeConvert"/>
+	<class name="RooNormPdf"/>
+	<class name="RooRealConstraint"/>
+	<class name="RooPowerLaw"/>
+	<class name="RooCondAddPdf"/>
+	<class name="RooCondRatioPdf"/>
+	<class name="RooPdfAddReal"/>
+	<class name="RooGBRFunctionFlex"/>
+	<class name="RooGBRTargetFlex"/>
+	<class name="RooGBRFunction"/>
+	<class name="RooGBRTarget"/>
+</lcgdict>
